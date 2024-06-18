@@ -8,7 +8,7 @@ const mercadopagoRoutes = require('./Mercadopago.router');
 router.use('/users', userRoutes);
 router.use('/categories', categoryRoutes);
 router.use('/products', productRoutes);
-router.use('/mercadopago', mercadopagoRoutes);ß
+router.use('/mercadopago', mercadopagoRoutes);
 module.exports = router;
 //http:localhost:3000/v1/users
 //http:localhost:3000/v1/products
