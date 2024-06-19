@@ -22,9 +22,9 @@ const payProduct = async (req, res) => {
             },
         ],
         back_urls:{
-            success: "www.girona.cl",
-            failure: "www.ipchile.cl",
-            pending: "www.myportal.cl",
+            success: "https://tienda-ecommerce-5.vercel.app/home",
+            failure: "https://tienda-ecommerce-5.vercel.app/home",
+            pending: "https://tienda-ecommerce-5.vercel.app/home",
         },
         auto_return: "approved",
 
