@@ -22,9 +22,9 @@ const payProduct = async (req, res) => {
             },
         ],
         back_urls:{
-            success: "https://tienda-ecommerce-5.vercel.app/home",
-            failure: "https://tienda-ecommerce-5.vercel.app/home",
-            pending: "https://tienda-ecommerce-5.vercel.app/home",
+            success: "https://tienda-ecommerce-5.vercel.app/",
+            failure: "https://tienda-ecommerce-5.vercel.app/",
+            pending: "https://tienda-ecommerce-5.vercel.app/",
         },
         auto_return: "approved",
 
